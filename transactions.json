@@ -1,0 +1,74 @@
+[
+    {
+      "icon": [
+        "settings_backup_restore",
+        "#0f79f3",
+        "#dbeafd"
+      ],
+      "by": "Refund Bill payment",
+      "date": "15 Nov 2024 - 8:20am",
+      "price": 995,
+      "isIncrease": true,
+      "id": "079e"
+    },
+    {
+      "icon": [
+        "account_balance",
+        "#e74c3c",
+        "#fce4e2"
+      ],
+      "by": "Bank Transfer",
+      "date": "14 Nov 2024 - 7:20am",
+      "price": 1550,
+      "isIncrease": false,
+      "id": "3bac"
+    },
+    {
+      "icon": [
+        "credit_card",
+        "#796df6",
+        "#ebe9fe"
+      ],
+      "by": "Master Card",
+      "date": "13 Nov 2024 - 12:20am",
+      "price": 995,
+      "isIncrease": true,
+      "id": "f8ab"
+    },
+    {
+      "icon": [
+        "account_balance_wallet",
+        "#44cae3",
+        "#daf7fb"
+      ],
+      "by": "Wallet",
+      "date": "12 Nov 2024 - 9:20am",
+      "price": 995,
+      "isIncrease": true,
+      "id": "432e"
+    },
+    {
+      "icon": [
+        "attach_money",
+        "#ffc480",
+        "#fff4e8"
+      ],
+      "by": "Cash Withdrawal",
+      "date": "11 Nov 2024 - 5:13am",
+      "price": 995,
+      "isIncrease": false,
+      "id": "e352"
+    },
+    {
+      "icon": [
+        "payments",
+        "#2ecc71",
+        "#e0f8ea"
+      ],
+      "by": "Payment",
+      "date": "10 Nov 2024 - 8:20am",
+      "price": 657,
+      "isIncrease": false,
+      "id": "e8a7"
+    }
+  ]

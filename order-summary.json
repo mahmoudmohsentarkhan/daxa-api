@@ -1,0 +1,12 @@
+{
+  "data": [
+    60,
+    30,
+    10
+  ],
+  "label": [
+    "Completed",
+    "New Order",
+    "pending"
+  ]
+} 

@@ -1,0 +1,92 @@
+[
+    {
+      "id": "1",
+      "img": "https://angular.hibootstrap.com/daxa/images/products/product1.jpg",
+      "name": "Luxury Rendering",
+      "soldQuantity": 91,
+      "price": 40,
+      "oldPrice": 45,
+      "rate": 4,
+      "itemCode": "854"
+    },
+    {
+      "id": "2",
+      "img": "https://angular.hibootstrap.com/daxa/images/products/product2.jpg",
+      "name": "Mobile Phone",
+      "soldQuantity": 47,
+      "price": 20,
+      "oldPrice": 25,
+      "rate": 5,
+      "itemCode": "987"
+    },
+    {
+      "id": "3",
+      "img": "https://angular.hibootstrap.com/daxa/images/products/product3.jpg",
+      "name": "Laptop Device",
+      "soldQuantity": 15,
+      "price": 90,
+      "oldPrice": 95,
+      "rate": 5,
+      "itemCode": "321"
+    },
+    {
+      "id": "4",
+      "img": "https://angular.hibootstrap.com/daxa/images/products/product4.jpg",
+      "name": "Black T-Shirt",
+      "soldQuantity": 78,
+      "price": 75,
+      "oldPrice": 80,
+      "rate": 1,
+      "itemCode": "321"
+    },
+    {
+      "id": "5",
+      "img": "https://angular.hibootstrap.com/daxa/images/products/product5.jpg",
+      "name": "Headphones",
+      "soldQuantity": 25,
+      "price": 30,
+      "oldPrice": 35,
+      "rate": 5,
+      "itemCode": "753"
+    },
+    {
+      "id": "6",
+      "img": "https://angular.hibootstrap.com/daxa/images/products/product6.jpg",
+      "name": "Hand Watch",
+      "soldQuantity": 43,
+      "price": 19,
+      "oldPrice": 25,
+      "rate": 2,
+      "itemCode": "147"
+    },
+    {
+      "id": "7",
+      "img": "https://angular.hibootstrap.com/daxa/images/products/product7.jpg",
+      "name": "Triblend T-shirt",
+      "soldQuantity": 75,
+      "price": 80,
+      "oldPrice": 85,
+      "rate": 3,
+      "itemCode": "987"
+    },
+    {
+      "id": "8",
+      "img": "https://angular.hibootstrap.com/daxa/images/products/product8.jpg",
+      "name": "Sports Shoes",
+      "soldQuantity": 19,
+      "price": 25,
+      "oldPrice": 30,
+      "rate": 4,
+      "itemCode": "524"
+    },
+    {
+      "id": "9",
+      "img": "https://angular.hibootstrap.com/daxa/images/products/product9.jpg",
+      "name": "437 Handbag",
+      "soldQuantity": 40,
+      "price": 33,
+      "oldPrice": 35,
+      "rate": 5,
+      "itemCode": "321"
+    }
+  ]

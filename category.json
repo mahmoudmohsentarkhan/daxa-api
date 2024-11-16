@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "name": "watch",
+    "totalProducts": 54,
+    "slug": "watch",
+    "description": "what is lorem ipsum?",
+    "status": "active",
+    "img": "https://angular.hibootstrap.com/daxa/images/products/product1.png"
+  },
+  {
+    "id": 2,
+    "name": "mobile",
+    "totalProducts": 13,
+    "slug": "mobile",
+    "description": "why do we use it?",
+    "status": "active",
+    "img": "https://angular.hibootstrap.com/daxa/images/products/product2.png"
+  },
+  {
+    "id": 3,
+    "name": "laptop",
+    "totalProducts": 42,
+    "slug": "laptop",
+    "description": "where does it come from?",
+    "status": "deactive",
+    "img": "https://angular.hibootstrap.com/daxa/images/products/product3.png"
+  },
+  {
+    "id": 4,
+    "name": "man",
+    "totalProducts": 32,
+    "slug": "man",
+    "description": "where can i get some?",
+    "status": "active",
+    "img": "https://angular.hibootstrap.com/daxa/images/products/product4.png"
+  },
+  {
+    "id": 5,
+    "name": "headphone",
+    "totalProducts": 100,
+    "slug": "headphone",
+    "description": "contrary to popular belief",
+    "status": "deactive",
+    "img": "https://angular.hibootstrap.com/daxa/images/products/product5.png"
+  },
+  {
+    "id": 6,
+    "name": "yellow watch",
+    "totalProducts": 22,
+    "slug": "yellow-watch",
+    "description": "there are many variations",
+    "status": "active",
+    "img": "https://angular.hibootstrap.com/daxa/images/products/product6.png"
+  },
+  {
+    "id": 7,
+    "name": "red laptop",
+    "totalProducts": 64,
+    "slug": "red-laptop",
+    "description": "the standard chunk of lorem",
+    "status": "active",
+    "img": "https://angular.hibootstrap.com/daxa/images/products/product7.png"
+  },
+  {
+    "id": 8,
+    "name": "shoe",
+    "totalProducts": 52,
+    "slug": "shoe",
+    "description": "non-characteristic words etc",
+    "status": "deactive",
+    "img": "https://angular.hibootstrap.com/daxa/images/products/product8.png"
+  },
+  {
+    "id": 9,
+    "name": "bag",
+    "totalProducts": 99,
+    "slug": "bag",
+    "description": "can you help translate this",
+    "status": "active",
+    "img": "https://angular.hibootstrap.com/daxa/images/products/product9.png"
+  },
+  {
+    "id": 10,
+    "name": "jewelry",
+    "totalProducts": 34,
+    "slug": "jewelry",
+    "description": "if you use this site regularly",
+    "status": "active",
+    "img": "https://angular.hibootstrap.com/daxa/images/products/product10.png"
+  }
+]

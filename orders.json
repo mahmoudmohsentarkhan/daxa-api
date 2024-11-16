@@ -1,0 +1,38 @@
+[
+    {
+      "id": "9513",
+      "nameProduct": "Mobile Phone",
+      "imgProduct": "https://angular.hibootstrap.com/daxa/images/products/product2.jpg",
+      "price": 20,
+      "nameCustomer": "Dorothy Young",
+      "imgCustomer": "https://angular.hibootstrap.com/daxa/images/users/user2.jpg",
+      "created": "14 Nov, 2024",
+      "quantity": 4,
+      "profit": 200,
+      "status": "Confirmed"
+    },
+    {
+      "id": "4826",
+      "nameProduct": "Headphones",
+      "imgProduct": "https://angular.hibootstrap.com/daxa/images/products/product5.jpg",
+      "price": 25,
+      "nameCustomer": "Kendall Allen",
+      "imgCustomer": "https://angular.hibootstrap.com/daxa/images/users/user5.jpg",
+      "created": "11 Nov, 2024",
+      "quantity": 4,
+      "profit": 789,
+      "status": "rejected"
+    },
+    {
+      "id": "6235",
+      "nameProduct": "Triblend T-shirt",
+      "imgProduct": "https://angular.hibootstrap.com/daxa/images/products/product7.jpg",
+      "price": 80,
+      "nameCustomer": "Joan Stanley",
+      "imgCustomer": "https://angular.hibootstrap.com/daxa/images/users/user7.jpg",
+      "created": "9 Nov, 2024",
+      "quantity": 1,
+      "profit": 785,
+      "status": "Confirmed"
+    }
+  ]

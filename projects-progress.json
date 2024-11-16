@@ -1,0 +1,12 @@
+{
+    "data": [
+      60,
+      30,
+      10
+    ],
+    "label": [
+      "In Progress",
+      "Not Started",
+      "Completed"
+    ]
+  }

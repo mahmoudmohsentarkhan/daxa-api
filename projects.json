@@ -1,0 +1,92 @@
+[
+    {
+      "id": "547",
+      "projectName": "Hotel management system",
+      "clint": "Vaxo Corporation",
+      "startDate": "15 Nov, 2024",
+      "endDate": "15 Dec, 2024",
+      "budget": 5250,
+      "status": "In Progress"
+    },
+    {
+      "id": "473",
+      "projectName": "Product development",
+      "clint": "Beja Ltd",
+      "startDate": "14 Nov, 2024",
+      "endDate": "14 Dec, 2024",
+      "budget": 5250,
+      "status": "Not Started"
+    },
+    {
+      "id": "785",
+      "projectName": "Python upgrade",
+      "clint": "Affort Solutions",
+      "startDate": "13 Nov, 2024",
+      "endDate": "13 Dec, 2024",
+      "budget": 1452,
+      "status": "Completed"
+    },
+    {
+      "id": "213",
+      "projectName": "Project monitoring",
+      "clint": "Shawn Kennedy",
+      "startDate": "12 Nov, 2024",
+      "endDate": "12 Dec, 2024",
+      "budget": 2357,
+      "status": "pending"
+    },
+    {
+      "id": "852",
+      "projectName": "Project alpho",
+      "clint": "Addax Ltd",
+      "startDate": "11 Nov, 2024",
+      "endDate": "11 Dec, 2024",
+      "budget": 9841,
+      "status": "In Progress"
+    },
+    {
+      "id": "147",
+      "projectName": "Multi-purpose landing",
+      "clint": "Profun Solutions",
+      "startDate": "10 Nov, 2024",
+      "endDate": "10 Dec, 2024",
+      "budget": 7854,
+      "status": "pending"
+    },
+    {
+      "id": "321",
+      "projectName": "Services & startup agency",
+      "clint": "Futo Agency",
+      "startDate": "9 Nov, 2024",
+      "endDate": "9 Dec, 2024",
+      "budget": 3114,
+      "status": "Not Started"
+    },
+    {
+      "id": "456",
+      "projectName": "NFT marketplace",
+      "clint": "",
+      "startDate": "8 Nov, 2024",
+      "endDate": "8 Dec, 2024",
+      "budget": 7531,
+      "status": "pending"
+    },
+    {
+      "id": "987",
+      "projectName": "Money transfer",
+      "clint": "Alina Smith",
+      "startDate": "7 Nov, 2024",
+      "endDate": "7 Dec, 2024",
+      "budget": 9510,
+      "status": "Completed"
+    },
+    {
+      "id": "753",
+      "projectName": "Project launchpad",
+      "clint": "Mave Metaverse",
+      "startDate": "6 Nov, 2024",
+      "endDate": "6 Dec, 2024",
+      "budget": 3045,
+      "status": "Not Started"
+    }
+  ]

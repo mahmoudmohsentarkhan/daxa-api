@@ -1,0 +1,62 @@
+[
+  {
+    "id": "452",
+    "courseName": "Introduction to python",
+    "catigory": "Technology",
+    "instructor": "Ann Cohen",
+    "enrolledStudents": 90,
+    "startDate": "01 Aug, 2024",
+    "endDate": "30 Dec, 2024",
+    "price": 30
+  },
+  {
+    "id": "784",
+    "courseName": "Data science fundamentals",
+    "catigory": "Science",
+    "instructor": "Lea Lewis",
+    "enrolledStudents": 120,
+    "startDate": "15 Aug, 2024",
+    "endDate": "15 Dec, 2024",
+    "price": 45
+  },
+  {
+    "id": "147",
+    "courseName": "Graphic design basics",
+    "catigory": "Arts & design",
+    "instructor": "Lillie Walker",
+    "enrolledStudents": 80,
+    "startDate": "01 Sep, 2024",
+    "endDate": "30 Nov, 2024",
+    "price": 90
+  },
+  {
+    "id": "753",
+    "courseName": "Web development basics",
+    "catigory": "Technology",
+    "instructor": "Lynn Flinn",
+    "enrolledStudents": 96,
+    "startDate": "15 Sep, 2024",
+    "endDate": "30 Dec, 2024",
+    "price": 55
+  },
+  {
+    "id": "257",
+    "courseName": "Business finance",
+    "catigory": "Business",
+    "instructor": "Mark Rivera",
+    "enrolledStudents": 70,
+    "startDate": "01 Oct, 2024",
+    "endDate": "30 Dec, 2024",
+    "price": 36
+  },
+  {
+    "id": "753",
+    "courseName": "Advanced app development",
+    "catigory": "Technology",
+    "instructor": "Chad Campos",
+    "enrolledStudents": 59,
+    "startDate": "15 Oct, 2024",
+    "endDate": "30 Dec, 2024",
+    "price": 72
+  }
+]

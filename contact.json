@@ -1,0 +1,134 @@
+[
+  {
+    "id": "1217",
+    "name": "Carlos Daley",
+    "img": "https://angular.hibootstrap.com/daxa/images/users/user1.jpg",
+    "email": "carlos@daxa.com",
+    "phone": "+1 555-123-4567",
+    "lastContacted": "Nov 10, 2024",
+    "company": "ABC Corporation",
+    "leadScore": 50,
+    "status": "active"
+  },
+  {
+    "id": "9513",
+    "name": "Dorothy Young",
+    "img": "https://angular.hibootstrap.com/daxa/images/users/user2.jpg",
+    "email": "dorothy@daxa.com",
+    "phone": "+1 555-987-6543",
+    "lastContacted": "Nov 12, 2024",
+    "company": "XYZ Ltd",
+    "leadScore": 35,
+    "status": "active"
+  },
+  {
+    "id": "7513",
+    "name": "Greg Woody",
+    "img": "https://angular.hibootstrap.com/daxa/images/users/user3.jpg",
+    "email": "greg@daxa.com",
+    "phone": "+1 555-456-7890",
+    "lastContacted": "Nov 12, 2024",
+    "company": "Tech Solutions",
+    "leadScore": 40,
+    "status": "deactive"
+  },
+  {
+    "id": "3579",
+    "name": "Deborah Rosol",
+    "img": "https://angular.hibootstrap.com/daxa/images/users/user4.jpg",
+    "email": "deborah@daxa.com",
+    "phone": "+1 555-369-7878",
+    "lastContacted": "Nov 13, 2024",
+    "company": "Global Solutions",
+    "leadScore": 25,
+    "status": "active"
+  },
+  {
+    "id": "4826",
+    "name": "Kendall Allen",
+    "img": "https://angular.hibootstrap.com/daxa/images/users/user5.jpg",
+    "email": "kendall@daxa.com",
+    "phone": "+1 555-658-4488",
+    "lastContacted": "Nov 14, 2024",
+    "company": "Acma Industries",
+    "leadScore": 35,
+    "status": "active"
+  },
+  {
+    "id": "1324",
+    "name": "Mark Stjohn",
+    "img": "https://angular.hibootstrap.com/daxa/images/users/user6.jpg",
+    "email": "mark@daxa.com",
+    "phone": "+1 555-558-9966",
+    "lastContacted": "Nov 15, 2024",
+    "company": "Synergy Ltd",
+    "leadScore": 25,
+    "status": "deactive"
+  },
+  {
+    "id": "1217",
+    "name": "Carlos Daley",
+    "img": "https://angular.hibootstrap.com/daxa/images/users/user1.jpg",
+    "email": "carlos@daxa.com",
+    "phone": "+1 555-123-4567",
+    "lastContacted": "Nov 10, 2024",
+    "company": "ABC Corporation",
+    "leadScore": 50,
+    "status": "active"
+  },
+  {
+    "id": "9513",
+    "name": "Dorothy Young",
+    "img": "https://angular.hibootstrap.com/daxa/images/users/user2.jpg",
+    "email": "dorothy@daxa.com",
+    "phone": "+1 555-987-6543",
+    "lastContacted": "Nov 12, 2024",
+    "company": "XYZ Ltd",
+    "leadScore": 35,
+    "status": "active"
+  },
+  {
+    "id": "7513",
+    "name": "Greg Woody",
+    "img": "https://angular.hibootstrap.com/daxa/images/users/user3.jpg",
+    "email": "greg@daxa.com",
+    "phone": "+1 555-456-7890",
+    "lastContacted": "Nov 12, 2024",
+    "company": "Tech Solutions",
+    "leadScore": 40,
+    "status": "deactive"
+  },
+  {
+    "id": "3579",
+    "name": "Deborah Rosol",
+    "img": "https://angular.hibootstrap.com/daxa/images/users/user4.jpg",
+    "email": "deborah@daxa.com",
+    "phone": "+1 555-369-7878",
+    "lastContacted": "Nov 13, 2024",
+    "company": "Global Solutions",
+    "leadScore": 25,
+    "status": "active"
+  },
+  {
+    "id": "4826",
+    "name": "Kendall Allen",
+    "img": "https://angular.hibootstrap.com/daxa/images/users/user5.jpg",
+    "email": "kendall@daxa.com",
+    "phone": "+1 555-658-4488",
+    "lastContacted": "Nov 14, 2024",
+    "company": "Acma Industries",
+    "leadScore": 35,
+    "status": "active"
+  },
+  {
+    "id": "1324",
+    "name": "Mark Stjohn",
+    "img": "https://angular.hibootstrap.com/daxa/images/users/user6.jpg",
+    "email": "mark@daxa.com",
+    "phone": "+1 555-558-9966",
+    "lastContacted": "Nov 15, 2024",
+    "company": "Synergy Ltd",
+    "leadScore": 25,
+    "status": "deactive"
+  }
+]

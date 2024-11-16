@@ -1,0 +1,112 @@
+[
+    {
+      "id": "#ARP-1217",
+      "customerName": "Marcia Baker",
+      "customerImg": "https://angular.hibootstrap.com/daxa/images/users/user15.jpg",
+      "numOrdersReturned": 2,
+      "numOrdersRetfunded": 1,
+      "numOrdersReplaced": 0,
+      "totalRefunded": 42,
+      "totalReplaced": 50,
+      "time": "Nov 11, 2024"
+    },
+    {
+      "id": "#ARP-1364",
+      "customerName": "Carolyn Barnes",
+      "customerImg": "https://angular.hibootstrap.com/daxa/images/users/user7.jpg",
+      "numOrdersReturned": 1,
+      "numOrdersRetfunded": 1,
+      "numOrdersReplaced": 0,
+      "totalRefunded": 32,
+      "totalReplaced": 54,
+      "time": "Nov 12, 2024"
+    },
+    {
+      "id": "#ARP-2951",
+      "customerName": "Donna Miller",
+      "customerImg": "https://angular.hibootstrap.com/daxa/images/users/user12.jpg",
+      "numOrdersReturned": 2,
+      "numOrdersRetfunded": 7,
+      "numOrdersReplaced": 4,
+      "totalRefunded": 53,
+      "totalReplaced": 67,
+      "time": "Nov 13, 2024"
+    },
+    {
+      "id": "#ARP-7342",
+      "customerName": "Barbara Cross",
+      "customerImg": "https://angular.hibootstrap.com/daxa/images/users/user5.jpg",
+      "numOrdersReturned": 3,
+      "numOrdersRetfunded": 1,
+      "numOrdersReplaced": 2,
+      "totalRefunded": 42,
+      "totalReplaced": 56,
+      "time": "Nov 14, 2024"
+    },
+    {
+      "id": "#ARP-4619",
+      "customerName": "Rebecca Block",
+      "customerImg": "https://angular.hibootstrap.com/daxa/images/users/user16.jpg",
+      "numOrdersReturned": 5,
+      "numOrdersRetfunded": 2,
+      "numOrdersReplaced": 7,
+      "totalRefunded": 24,
+      "totalReplaced": 45,
+      "time": "Nov 15, 2024"
+    },
+    {
+      "id": "#ARP-7346",
+      "customerName": "Ramiro McCarty",
+      "customerImg": "https://angular.hibootstrap.com/daxa/images/users/user9.jpg",
+      "numOrdersReturned": 5,
+      "numOrdersRetfunded": 6,
+      "numOrdersReplaced": 2,
+      "totalRefunded": 53,
+      "totalReplaced": 56,
+      "time": "Nov 16, 2024"
+    },
+    {
+      "id": "#ARP-7612",
+      "customerName": "Robert Fairweather",
+      "customerImg": "https://angular.hibootstrap.com/daxa/images/users/user1.jpg",
+      "numOrdersReturned": 2,
+      "numOrdersRetfunded": 6,
+      "numOrdersReplaced": 1,
+      "totalRefunded": 52,
+      "totalReplaced": 67,
+      "time": "Nov 17, 2024"
+    },
+    {
+      "id": "#ARP-1217",
+      "customerName": "Marcia Baker",
+      "customerImg": "https://angular.hibootstrap.com/daxa/images/users/user15.jpg",
+      "numOrdersReturned": 6,
+      "numOrdersRetfunded": 5,
+      "numOrdersReplaced": 4,
+      "totalRefunded": 42,
+      "totalReplaced": 46,
+      "time": "Nov 18, 2024"
+    },
+    {
+      "id": "#ARP-7642",
+      "customerName": "Marcelino Haddock",
+      "customerImg": "https://angular.hibootstrap.com/daxa/images/users/user6.jpg",
+      "numOrdersReturned": 7,
+      "numOrdersRetfunded": 2,
+      "numOrdersReplaced": 5,
+      "totalRefunded": 44,
+      "totalReplaced": 68,
+      "time": "Nov 19, 2024"
+    },
+    {
+      "id": "#ARP-4652",
+      "customerName": "Thomas Wilson",
+      "customerImg": "https://angular.hibootstrap.com/daxa/images/users/user13.jpg",
+      "numOrdersReturned": 5,
+      "numOrdersRetfunded": 1,
+      "numOrdersReplaced": 6,
+      "totalRefunded": 99,
+      "totalReplaced": 742,
+      "time": "Nov 20, 2024"
+    }
+  ]

@@ -1,0 +1,33 @@
+[
+    {
+      "name": "united states",
+      "img": "https://angular.hibootstrap.com/daxa/images/flags/usa.png",
+      "percentage": 85,
+      "id": "519d"
+    },
+    {
+      "name": "china",
+      "img": "https://angular.hibootstrap.com/daxa/images/flags/china.png",
+      "percentage": 60,
+      "id": "d0bf"
+    },
+    {
+      "name": "australia",
+      "img": "https://angular.hibootstrap.com/daxa/images/flags/australia.png",
+      "percentage": 70,
+      "id": "99ad"
+    },
+    {
+      "name": "germany",
+      "img": "https://angular.hibootstrap.com/daxa/images/flags/germany.png",
+      "percentage": 75,
+      "id": "2739"
+    },
+    {
+      "name": "canada",
+      "img": "https://angular.hibootstrap.com/daxa/images/flags/canada.png",
+      "percentage": 80,
+      "id": "83a3"
+    }
+  ]
+  

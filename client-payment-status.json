@@ -1,0 +1,12 @@
+{
+  "data": [
+    300,
+    200,
+    150
+  ],
+  "label": [
+    "Paid",
+    "pending",
+    "Overdue"
+  ]
+}

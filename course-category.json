@@ -1,0 +1,65 @@
+[
+  {
+    "id": "1",
+    "name": "Technology",
+    "subtitle": "24",
+    "enrolled": 351,
+    "img": "https://angular.hibootstrap.com/daxa/images/courses/course1.jpg"
+  },
+  {
+    "id": "2",
+    "name": "Business",
+    "subtitle": "75",
+    "enrolled": 654,
+    "img": "https://angular.hibootstrap.com/daxa/images/courses/course2.jpg"
+  },
+  {
+    "id": "3",
+    "name": "Language",
+    "subtitle": "54",
+    "enrolled": 879,
+    "img": "https://angular.hibootstrap.com/daxa/images/courses/course3.jpg"
+  },
+  {
+    "id": "4",
+    "name": "Science",
+    "subtitle": "25",
+    "enrolled": 1213,
+    "img": "https://angular.hibootstrap.com/daxa/images/courses/course4.jpg"
+  },
+  {
+    "id": "5",
+    "name": "Arts & Design",
+    "subtitle": "14",
+    "enrolled": 78787,
+    "img": "https://angular.hibootstrap.com/daxa/images/courses/course5.jpg"
+  },
+  {
+    "id": "6",
+    "name": "UI/UX",
+    "subtitle": "32",
+    "enrolled": 1456,
+    "img": "https://angular.hibootstrap.com/daxa/images/courses/course6.jpg"
+  },
+  {
+    "id": "7",
+    "name": "UI/UX",
+    "subtitle": "95",
+    "enrolled": 789,
+    "img": "https://angular.hibootstrap.com/daxa/images/courses/course7.jpg"
+  },
+  {
+    "id": "8",
+    "name": "Science",
+    "subtitle": "12",
+    "enrolled": 954,
+    "img": "https://angular.hibootstrap.com/daxa/images/courses/course8.jpg"
+  },
+  {
+    "id": "9",
+    "name": "Business",
+    "subtitle": "78",
+    "enrolled": 753,
+    "img": "https://angular.hibootstrap.com/daxa/images/courses/course9.jpg"
+  }
+]

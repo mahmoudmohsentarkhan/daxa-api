@@ -1,0 +1,38 @@
+[
+  {
+    "id": "15456",
+    "name": "Mark Stjohn",
+    "rate": 5,
+    "img": "https://angular.hibootstrap.com/daxa/images/users/user6.jpg"
+  },
+  {
+    "id": "65768",
+    "name": "Joan Stanley",
+    "rate": 4,
+    "img": "https://angular.hibootstrap.com/daxa/images/users/user7.jpg"
+  },
+  {
+    "id": "87878",
+    "name": "Jacob Bell",
+    "rate": 3,
+    "img": "https://angular.hibootstrap.com/daxa/images/users/user8.jpg"
+  },
+  {
+    "id": "45770",
+    "name": "Donald Bryan",
+    "rate": 5,
+    "img": "https://angular.hibootstrap.com/daxa/images/users/user9.jpg"
+  },
+  {
+    "id": "78790",
+    "name": "Kristina Blomquist",
+    "rate": 4,
+    "img": "https://angular.hibootstrap.com/daxa/images/users/user10.jpg"
+  },
+  {
+    "id": "98542",
+    "name": "Jeffrey Morrison",
+    "rate": 5,
+    "img": "https://angular.hibootstrap.com/daxa/images/users/user11.jpg"
+  }
+]

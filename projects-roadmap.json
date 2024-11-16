@@ -1,0 +1,18 @@
+{
+    "data": [
+      45,
+      40,
+      52,
+      63,
+      80,
+      88
+    ],
+    "label": [
+      "Project Planning",
+      "Requirement",
+      "Design",
+      "Development",
+      "Testing and QA",
+      "Post-Launch"
+    ]
+}

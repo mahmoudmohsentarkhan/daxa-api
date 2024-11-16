@@ -1,0 +1,112 @@
+[
+    {
+      "id": "#ARP-1217",
+      "name": "Marcia Baker",
+      "email": "marcia@example.com",
+      "img": "https://angular.hibootstrap.com/daxa/images/users/user15.jpg",
+      "phone": "+1 555-123-4567",
+      "lastLogin": "Nov 10, 2024",
+      "totalSpand": "6855",
+      "totalOrder": "125",
+      "status": "Active"
+    },
+    {
+      "id": "#ARP-1364",
+      "name": "Carolyn Barnes",
+      "email": "barnes@example.com",
+      "img": "https://angular.hibootstrap.com/daxa/images/users/user7.jpg",
+      "phone": "+1 555-987-6543",
+      "lastLogin": "Nov 11, 2024",
+      "totalSpand": "258",
+      "totalOrder": "99",
+      "status": "Active"
+    },
+    {
+      "id": "#ARP-2951",
+      "name": "Donna Miller",
+      "email": "donna@example.com",
+      "img": "https://angular.hibootstrap.com/daxa/images/users/user12.jpg",
+      "phone": "+1 555-456-7890",
+      "lastLogin": "Nov 12, 2024",
+      "totalSpand": "3890",
+      "totalOrder": "145",
+      "status": "Active"
+    },
+    {
+      "id": "#ARP-7342",
+      "name": "Barbara Cross",
+      "email": "cross@example.com",
+      "img": "https://angular.hibootstrap.com/daxa/images/users/user5.jpg",
+      "phone": "+1 555-369-7878",
+      "lastLogin": "Nov 13, 2024",
+      "totalSpand": "2500",
+      "totalOrder": "279",
+      "status": "Active"
+    },
+    {
+      "id": "#ARP-4619",
+      "name": "Rebecca Block",
+      "email": "block@example.com",
+      "img": "https://angular.hibootstrap.com/daxa/images/users/user16.jpg",
+      "phone": "+1 555-658-4488",
+      "lastLogin": "Nov 14, 2024",
+      "totalSpand": "8200",
+      "totalOrder": "169",
+      "status": "Deactive"
+    },
+    {
+      "id": "#ARP-7346",
+      "name": "Ramiro McCarty",
+      "email": "ramiro@example.com",
+      "img": "https://angular.hibootstrap.com/daxa/images/users/user9.jpg",
+      "phone": "+1 555-558-9966",
+      "lastLogin": "Nov 15, 2024",
+      "totalSpand": "640",
+      "totalOrder": "46",
+      "status": "Active"
+    },
+    {
+      "id": "#ARP-7612",
+      "name": "Robert Fairweather",
+      "email": "robert@example.com",
+      "img": "https://angular.hibootstrap.com/daxa/images/users/user1.jpg",
+      "phone": "+1 555-357-5888",
+      "lastLogin": "Nov 16, 2024",
+      "totalSpand": "9100",
+      "totalOrder": "184",
+      "status": "Active"
+    },
+    {
+      "id": "#ARP-7642",
+      "name": "Marcelino Haddock",
+      "email": "haddock@example.com",
+      "img": "https://angular.hibootstrap.com/daxa/images/users/user6.jpg",
+      "phone": "+1 555-456-8877",
+      "lastLogin": "Nov 17, 2024",
+      "totalSpand": "7300",
+      "totalOrder": "166",
+      "status": "Active"
+    },
+    {
+      "id": "#ARP-4652",
+      "name": "Thomas Wilson",
+      "email": "wildon@example.com",
+      "img": "https://angular.hibootstrap.com/daxa/images/users/user13.jpg",
+      "phone": "+1 555-622-4488",
+      "lastLogin": "Nov 18, 2024",
+      "totalSpand": "6600",
+      "totalOrder": "75",
+      "status": "Active"
+    },
+    {
+      "id": "#ARP-7895",
+      "name": "Nathaniel Hulsey",
+      "email": "hulsey@example.com",
+      "img": "https://angular.hibootstrap.com/daxa/images/users/user14.jpg",
+      "phone": "+1 555-225-4488",
+      "lastLogin": "Nov 19, 2024",
+      "totalSpand": "2800",
+      "totalOrder": "55",
+      "status": "Deactive"
+    }
+  ]

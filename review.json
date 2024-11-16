@@ -1,0 +1,112 @@
+[
+    {
+      "id": "134",
+      "productName": "Hand Watch",
+      "productImg": "https://angular.hibootstrap.com/daxa/images/products/product6.png",
+      "customerName": "Marcia Baker",
+      "customerImg": "https://angular.hibootstrap.com/daxa/images/users/user15.jpg",
+      "customerReview": "Auctor in nam malesuada auctor ultrices proin condimentum leo cras. Ultrices a quam massa tincidunt dictum luctus cursus.",
+      "rate": 5,
+      "time": "2024-11-10",
+      "status": "Approved"
+    },
+    {
+      "id": "312",
+      "productName": "Gaming Laptop",
+      "productImg": "https://angular.hibootstrap.com/daxa/images/products/product3.png",
+      "customerName": "Carolyn Barnes",
+      "customerImg": "https://angular.hibootstrap.com/daxa/images/users/user7.jpg",
+      "customerReview": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard.",
+      "rate": 4.5,
+      "time": "2024-11-11",
+      "status": "Pending"
+    },
+    {
+      "id": "532",
+      "productName": "Sports Shoes",
+      "productImg": "https://angular.hibootstrap.com/daxa/images/products/product8.png",
+      "customerName": "Donna Miller",
+      "customerImg": "https://angular.hibootstrap.com/daxa/images/users/user12.jpg",
+      "customerReview": "When an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      "rate": 4,
+      "time": "2024-11-12",
+      "status": "Approved"
+    },
+    {
+      "id": "142",
+      "productName": "Woman Handbag",
+      "productImg": "https://angular.hibootstrap.com/daxa/images/products/product9.png",
+      "customerName": "Barbara Cross",
+      "customerImg": "https://angular.hibootstrap.com/daxa/images/users/user5.jpg",
+      "customerReview": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old.",
+      "rate": 3.5,
+      "time": "2024-11-13",
+      "status": "Rejected"
+    },
+    {
+      "id": "564",
+      "productName": "Luxury Rendering",
+      "productImg": "https://angular.hibootstrap.com/daxa/images/products/product10.png",
+      "customerName": "Rebecca Block",
+      "customerImg": "https://angular.hibootstrap.com/daxa/images/users/user16.jpg",
+      "customerReview": "Ultrices a quam massa tincidunt dictum luctus cursus.",
+      "rate": 3,
+      "time": "2024-11-14",
+      "status": "Pending"
+    },
+    {
+      "id": "175",
+      "productName": "Wireless Headphone",
+      "productImg": "https://angular.hibootstrap.com/daxa/images/products/product5.png",
+      "customerName": "Ramiro McCarty",
+      "customerImg": "https://angular.hibootstrap.com/daxa/images/users/user9.jpg",
+      "customerReview": "Auctor in nam malesuada auctor ultrices proin condimentum leo cras. Ultrices a quam massa tincidunt dictum luctus cursus.",
+      "rate": 5,
+      "time": "2024-11-15",
+      "status": "Approved"
+    },
+    {
+      "id": "122",
+      "productName": "Futuristic Bracelet",
+      "productImg": "https://angular.hibootstrap.com/daxa/images/products/product11.png",
+      "customerName": "Robert Fairweather",
+      "customerImg": "https://angular.hibootstrap.com/daxa/images/users/user1.jpg",
+      "customerReview": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old.",
+      "rate": 4.5,
+      "time": "2024-11-16",
+      "status": "Approved"
+    },
+    {
+      "id": "875",
+      "productName": "Mobile Device",
+      "productImg": "https://angular.hibootstrap.com/daxa/images/products/product12.png",
+      "customerName": "Marcelino Haddock",
+      "customerImg": "https://angular.hibootstrap.com/daxa/images/users/user6.jpg",
+      "customerReview": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+      "rate": 5,
+      "time": "2024-11-17",
+      "status": "Rejected"
+    },
+    {
+      "id": "412",
+      "productName": "Triblend T-shirt",
+      "productImg": "https://angular.hibootstrap.com/daxa/images/products/product13.png",
+      "customerName": "Thomas Wilson",
+      "customerImg": "https://angular.hibootstrap.com/daxa/images/users/user13.jpg",
+      "customerReview": "Ultrices a quam massa tincidunt dictum luctus cursus.",
+      "rate": 5,
+      "time": "2024-11-18",
+      "status": "Approved"
+    },
+    {
+      "id": "897",
+      "productName": "Camera Lens",
+      "productImg": "https://angular.hibootstrap.com/daxa/images/products/product14.png",
+      "customerName": "Nathaniel Hulsey",
+      "customerImg": "https://angular.hibootstrap.com/daxa/images/users/user14.jpg",
+      "customerReview": "Auctor in nam malesuada auctor ultrices proin condimentum leo cras.",
+      "rate": 4.0,
+      "time": "2024-11-19",
+      "status": "Pending"
+    }
+  ]

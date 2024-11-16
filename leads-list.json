@@ -1,0 +1,30 @@
+[
+  {
+    "icon": "share",
+    "name": "social",
+    "color": "#0f79f3",
+    "users": 9562,
+    "id": "a8f7"
+  },
+  {
+    "icon": "email",
+    "name": "email",
+    "color": "#00cae3",
+    "users": 18426,
+    "id": "1ef6"
+  },
+  {
+    "icon": "call",
+    "name": "call",
+    "color": "#7986f7",
+    "users": 4753,
+    "id": "0628"
+  },
+  {
+    "icon": "category",
+    "name": "others",
+    "color": "#ffb264",
+    "users": 2657,
+    "id": "bdef"
+  }
+] 

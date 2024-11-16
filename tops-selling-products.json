@@ -1,0 +1,98 @@
+[
+    {
+      "id": 1,
+      "title": "Smart Watch",
+      "soldQuantity": 953,
+      "itemCode": "#ARP-1217",
+      "price": 90954,
+      "img": "https://angular.hibootstrap.com/daxa/images/products/product1.png"
+    },
+    {
+      "id": 2,
+      "title": "Mobile Phone",
+      "soldQuantity": 876,
+      "itemCode": "#ARP-9513",
+      "price": 85648,
+      "img": "https://angular.hibootstrap.com/daxa/images/products/product2.png"
+    },
+    {
+      "id": 3,
+      "title": "Laptop Device",
+      "soldQuantity": 823,
+      "itemCode": "#ARP-7531",
+      "price": 79852,
+      "img": "https://angular.hibootstrap.com/daxa/images/products/product3.png"
+    },
+    {
+      "id": 4,
+      "title": "Black T-Shirt",
+      "soldQuantity": 743,
+      "itemCode": "#ARP-3579",
+      "price": 73624,
+      "img": "https://angular.hibootstrap.com/daxa/images/products/product4.png"
+    },
+    {
+      "id": 5,
+      "title": "Headphones",
+      "soldQuantity": 693,
+      "itemCode": "#ARP-4826",
+      "price": 65973,
+      "img": "https://angular.hibootstrap.com/daxa/images/products/product5.png"
+    },
+    {
+      "id": 6,
+      "title": "Hand Watch",
+      "soldQuantity": 654,
+      "itemCode": "#ARP-1265",
+      "price": 42455,
+      "img": "https://angular.hibootstrap.com/daxa/images/products/product6.png"
+    },
+    {
+      "id": 7,
+      "title": "Gaming Laptop",
+      "soldQuantity": 214,
+      "itemCode": "#ARP-7654",
+      "price": 75643,
+      "img": "https://angular.hibootstrap.com/daxa/images/products/product7.png"
+    },
+    {
+      "id": 8,
+      "title": "Sports Shoes",
+      "soldQuantity": 342,
+      "itemCode": "#ARP-5678",
+      "price": 45678,
+      "img": "https://angular.hibootstrap.com/daxa/images/products/product8.png"
+    },
+    {
+      "id": 9,
+      "title": "437 Handbag",
+      "soldQuantity": 953,
+      "itemCode": "#ARP-5424",
+      "price": 21453,
+      "img": "https://angular.hibootstrap.com/daxa/images/products/product9.png"
+    },
+    {
+      "id": 10,
+      "title": "Luxury Rendering",
+      "soldQuantity": 524,
+      "itemCode": "#ARP-4312",
+      "price": 43242,
+      "img": "https://angular.hibootstrap.com/daxa/images/products/product10.png"
+    },
+    {
+      "id": 11,
+      "title": "Hand Watch",
+      "soldQuantity": 654,
+      "itemCode": "#ARP-1265",
+      "price": 42455,
+      "img": "https://angular.hibootstrap.com/daxa/images/products/product11.png"
+    },
+    {
+      "id": 12,
+      "title": "Gaming Laptop",
+      "soldQuantity": 214,
+      "itemCode": "#ARP-7654",
+      "price": 75643,
+      "img": "https://angular.hibootstrap.com/daxa/images/products/product12.png"
+    }
+  ]

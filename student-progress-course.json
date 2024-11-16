@@ -1,0 +1,62 @@
+[
+  {
+    "id": "234",
+    "name": "Andrew Allen",
+    "courseName": "Introduction to Python",
+    "progress": 95
+  },
+  {
+    "id": "456",
+    "name": "Russell Colon",
+    "courseName": "Web Development",
+    "progress": 90
+  },
+  {
+    "id": "954",
+    "name": "Cecil Batts",
+    "courseName": "Data Science",
+    "progress": 80
+  },
+  {
+    "id": "123",
+    "name": "Linda Ball",
+    "courseName": "Graphic Design Basics",
+    "progress": 70
+  },
+  {
+    "id": "456",
+    "name": "Frank Mele",
+    "courseName": "Business Finance",
+    "progress": 60
+  },
+  {
+    "id": "234",
+    "name": "Andrew Allen",
+    "courseName": "Introduction to Python",
+    "progress": 95
+  },
+  {
+    "id": "456",
+    "name": "Russell Colon",
+    "courseName": "Web Development",
+    "progress": 90
+  },
+  {
+    "id": "954",
+    "name": "Cecil Batts",
+    "courseName": "Data Science",
+    "progress": 80
+  },
+  {
+    "id": "123",
+    "name": "Linda Ball",
+    "courseName": "Graphic Design Basics",
+    "progress": 70
+  },
+  {
+    "id": "456",
+    "name": "Frank Mele",
+    "courseName": "Business Finance",
+    "progress": 60
+  }
+]
