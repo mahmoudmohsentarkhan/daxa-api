@@ -1,21 +1,19 @@
 {
-  "average-daily-sales": {
-    "data": [
-      22,
-      23,
-      10,
-      28,
-      16,
-      21,
-      30
-    ],
-    "label": [
-      "Jan",
-      "Feb",
-      "Mar",
-      "Apr",
-      "May",
-      "Jun"
-    ]
-  }  
-}
+  "data": [
+    22,
+    23,
+    10,
+    28,
+    16,
+    21,
+    30
+  ],
+  "label": [
+    "Jan",
+    "Feb",
+    "Mar",
+    "Apr",
+    "May",
+    "Jun"
+  ]
+}  
